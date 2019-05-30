@@ -1,5 +1,4 @@
 Jotta projektin voi jakaa GitHubin kautta.
 
-Tässä siis näkyy, miten GitHubia voidaan käyttää varmuuskopiona: kun projektin tila päivitetään GitHubiin, pääsee tietoon käsiksi internetin kautta, ja projektia voi jatkaa, vaikka paikalliselle versiolle tapahtuisikin jotain.
-
+HEllureijjaa
 
